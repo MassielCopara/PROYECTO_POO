@@ -3,6 +3,10 @@
 
 using namespace std;
 //funciones
+
+// me ves? Me sientes?
+
+
 void bienvenida(){
   cout<<"**************************************"<<endl;
   cout<<"*                                    *"<<endl;
